@@ -1,0 +1,18 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="17" />
+    <option name="LINE_SPACING" value="1.1" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei UI" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme|unknown|mark|learn|wtl)\b.*" />
+    <pattern icon="question" pattern="\b(question)\b.*" />
+    <filter name="QUESTION">
+      <pattern index="1" />
+    </filter>
+  </component>
+</application>

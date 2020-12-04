@@ -1,0 +1,19 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="id" value="1596633106533" />
+          <option name="name" value="new" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1596633108953" />
+          <option name="name" value="new (1)" />
+          <option name="pathToConfigFileJava" value="E:/Projects/java/p3c/p3c-formatter/eclipse-codestyle.xml" />
+          <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
