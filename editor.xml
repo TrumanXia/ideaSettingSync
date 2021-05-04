@@ -10,6 +10,10 @@
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei UI" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme|unknown|mark|learn|wtl)\b.*" />
     <pattern icon="question" pattern="\b(question)\b.*" />
